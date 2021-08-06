@@ -5,8 +5,11 @@ Pre-install the most useful tools I need for a plain Ubuntu.
 ## Tools Pre-Installed
 
 - curl
+- dnsutils
 - git
+- iputils-ping
 - openssh-client
+- net-tools
 - sshpass
 - vim
 
