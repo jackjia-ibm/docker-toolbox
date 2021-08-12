@@ -5,6 +5,7 @@ Pre-install the most useful tools I need for a plain ubi-minimal.
 ## Tools Pre-Installed
 
 - bind-utils
+- findutils
 - git
 - iputils
 - net-tools
