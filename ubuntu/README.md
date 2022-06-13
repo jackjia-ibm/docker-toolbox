@@ -10,7 +10,9 @@ Pre-install the most useful tools I need for a plain Ubuntu.
 - iputils-ping
 - openssh-client
 - net-tools
+- netcat
 - sshpass
+- telnet
 - vim
 
 ## Build and Publish
