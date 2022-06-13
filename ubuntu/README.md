@@ -13,7 +13,9 @@ Pre-install the most useful tools I need for a plain Ubuntu.
 - net-tools
 - netcat
 - sshpass
+- tcpdump
 - telnet
+- traceroute
 - vim
 
 ## Build and Publish

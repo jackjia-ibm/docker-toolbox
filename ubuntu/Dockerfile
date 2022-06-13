@@ -11,6 +11,8 @@ RUN apt-get update \
     net-tools \
     netcat \
     sshpass \
+    tcpdump \
     telnet \
+    traceroute \
     vim \
   && rm -rf /var/lib/apt/lists/*
