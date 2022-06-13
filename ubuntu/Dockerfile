@@ -8,6 +8,8 @@ RUN apt-get update \
     iputils-ping \
     openssh-client \
     net-tools \
+    netcat \
     sshpass \
+    telnet \
     vim \
   && rm -rf /var/lib/apt/lists/*
