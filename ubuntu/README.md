@@ -7,6 +7,7 @@ Pre-install the most useful tools I need for a plain Ubuntu.
 - curl
 - dnsutils
 - git
+- iproute2
 - iputils-ping
 - openssh-client
 - net-tools

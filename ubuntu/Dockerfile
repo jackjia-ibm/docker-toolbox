@@ -5,6 +5,7 @@ RUN apt-get update \
     curl \
     dnsutils \
     git \
+    iproute2 \
     iputils-ping \
     openssh-client \
     net-tools \
