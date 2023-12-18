@@ -9,6 +9,7 @@ Pre-install the most useful tools I need for a plain Ubuntu.
 - git
 - iproute2
 - iputils-ping
+- jq
 - openssh-client
 - net-tools
 - netcat

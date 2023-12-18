@@ -7,6 +7,7 @@ RUN apt-get update \
     git \
     iproute2 \
     iputils-ping \
+    jq \
     openssh-client \
     net-tools \
     netcat \
